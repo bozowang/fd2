@@ -1,0 +1,5 @@
+﻿{
+  "name": "Gemini Food Delivery",
+  "description": "A food delivery application powered by the Gemini API to generate restaurant and menu data dynamically, with an order submission feature.",
+  "requestFramePermissions": []
+}
